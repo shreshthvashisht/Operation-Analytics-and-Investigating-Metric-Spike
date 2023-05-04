@@ -45,14 +45,14 @@
 
 ### Answer the Following
 1. User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
-  - *Your task: Calculate the weekly user engagement?*
+    - *Your task: Calculate the weekly user engagement?*
 2. User Growth: Amount of users growing over time for a product.
-  - *Your task: Calculate the user growth for product?*
+    - *Your task: Calculate the user growth for product?*
 3. Weekly Retention: Users getting retained weekly after signing-up for a product.
-  - *Your task: Calculate the weekly retention of users-sign up cohort?*
+    - *Your task: Calculate the weekly retention of users-sign up cohort?*
 4. Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
-  - *Your task: Calculate the weekly engagement per device?*
+    - *Your task: Calculate the weekly engagement per device?*
 5. Email Engagement: Users engaging with the email service.
-  - *Your task: Calculate the email engagement metrics?*
+    - *Your task: Calculate the email engagement metrics?*
 
 
