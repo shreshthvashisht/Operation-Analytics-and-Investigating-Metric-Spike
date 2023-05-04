@@ -55,4 +55,6 @@
 5. Email Engagement: Users engaging with the email service.
     - *Your task: Calculate the email engagement metrics?*
 
+# For CSV file of first dataset [click here](https://docs.google.com/spreadsheets/d/1LYqpnSJTQhXTKlvv04mApT7T9_LzExRKsHem3lt4YX8/edit?usp=sharing)
+# For CSV files of second dataset [click here](https://drive.google.com/drive/folders/1bB-uqONISA6wiI1hw1LzISpe0-kHg0Nx?usp=sharing)
 
